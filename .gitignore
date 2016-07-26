@@ -1,0 +1,5 @@
+**/.iws
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+# why **? because it recurses through all the sub-folders, so files that
+# meet the criteria are ignored in sub-folders as well.
