@@ -3,6 +3,7 @@
  */
 public class Main {
     public static void main(String[] args) {
+        AudioPlayer audioPlayer = new AudioPlayer();
 
         AudioPlayer audioPlayer = new AudioPlayer();
 
