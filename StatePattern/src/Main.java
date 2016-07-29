@@ -14,7 +14,7 @@ public class Main {
         context.setState(startState);
         System.out.println(context.getState().toString());
 
-        endState.doAction();
+        endState.
         context.setState(endState);
         System.out.println(context.getState().toString());
     }
